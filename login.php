@@ -14,7 +14,7 @@
         <h1>INICIAR SESION</h1>
         <span>o sino:   <a id="enlace" href="signup.php">registrarse</a></span>
 
-        <form id="line-text" action="/php-login_fin/proyecto web/index12.php" method="post">
+        <form id="line-text" action="/php-login_fin/proyectoweb/index12.php" method="post">
             <input type="text" name="email" placeholder="Ingrese su email">
             <input type="password" name="password" placeholder="Ingrese su contraseña"><BR>
             <input type="submit" value="Send" onclick="" >
